@@ -6,7 +6,8 @@ It showcases my personal details, projects, and contact information.
 2. Open the folder.
 3. Run the index.html file in any browser.
 ## Screenshots
-![https://github.com/Anushka-Btech/Static-portfolio-Assignment-4-CSFCP-/blob/main/Assets/Screenshot%202025-11-23%20231647.png](./assets/screenshot.png)
+## Screenshots
+![Homepage Screenshot](https://github.com/Anushka-Btech/Static-portfolio-Assignment-4-CSFCP-/blob/main/Assets/Screenshot%202025-11-23%20231647.png)
 ## Features
 - Responsive layout
 - Clean design
